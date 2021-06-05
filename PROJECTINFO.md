@@ -10,7 +10,9 @@
   ├── converter.py             <- DSC
   ├── LICENSE                  <- DSC
   ├── palm_detection.tflite    <- DSC
+  ├── PROJECTINFO.md           <- DSC
   ├── README.md                <- DSC
+  ├── requirements.txt         <- DSC
   ├── yolov3-tiny.cfg          <- DSC
   ├── yolov3-tiny.weights      <- DSC
   └── yolo_runner.py           <- DSC
